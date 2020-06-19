@@ -1,0 +1,1981 @@
+PokerStars Home Game Hand #214931346417: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:06:20 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #3 is the button
+Seat 1: RobOClubs (10000 in chips) 
+Seat 2: Holdin_Horace (10000 in chips) 
+Seat 3: bengozoli (10000 in chips) 
+Seat 4: Adamvrg (10000 in chips) 
+Adamvrg: posts small blind 50
+RobOClubs: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [2c 8d]
+Holdin_Horace: calls 100
+bengozoli: calls 100
+Adamvrg: calls 50
+RobOClubs: checks 
+*** FLOP *** [8h Ah 6c]
+Adamvrg: checks 
+RobOClubs: checks 
+Holdin_Horace: bets 500
+bengozoli: calls 500
+Adamvrg: folds 
+RobOClubs: folds 
+*** TURN *** [8h Ah 6c] [7c]
+Holdin_Horace: bets 100
+bengozoli: raises 800 to 900
+Holdin_Horace: folds 
+Uncalled bet (800) returned to bengozoli
+bengozoli collected 1512 from pot
+bengozoli: doesn't show hand 
+*** SUMMARY ***
+Total pot 1600 | Rake 88 
+Board [8h Ah 6c 7c]
+Seat 1: RobOClubs (big blind) folded on the Flop
+Seat 2: Holdin_Horace folded on the Turn
+Seat 3: bengozoli (button) collected (1512)
+Seat 4: Adamvrg (small blind) folded on the Flop
+
+
+
+PokerStars Home Game Hand #214931361954: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:07:05 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #4 is the button
+Seat 1: RobOClubs (9900 in chips) 
+Seat 2: Holdin_Horace (9300 in chips) 
+Seat 3: bengozoli (10812 in chips) 
+Seat 4: Adamvrg (9900 in chips) 
+RobOClubs: posts small blind 50
+Holdin_Horace: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [7c As]
+bengozoli: calls 100
+Adamvrg: calls 100
+RobOClubs: calls 50
+Holdin_Horace: checks 
+*** FLOP *** [7d Qs 9s]
+RobOClubs: checks 
+Holdin_Horace: bets 300
+OwlInAllison joins the table at seat #5 
+bengozoli: folds 
+Adamvrg: calls 300
+RobOClubs: folds 
+*** TURN *** [7d Qs 9s] [Td]
+Holdin_Horace: checks 
+Adamvrg: bets 200
+Holdin_Horace: calls 200
+*** RIVER *** [7d Qs 9s Td] [3d]
+Holdin_Horace: checks 
+Adamvrg: bets 1400
+Holdin_Horace: folds 
+Uncalled bet (1400) returned to Adamvrg
+Adamvrg collected 1323 from pot
+Adamvrg: doesn't show hand 
+*** SUMMARY ***
+Total pot 1400 | Rake 77 
+Board [7d Qs 9s Td 3d]
+Seat 1: RobOClubs (small blind) folded on the Flop
+Seat 2: Holdin_Horace (big blind) folded on the River
+Seat 3: bengozoli folded on the Flop
+Seat 4: Adamvrg (button) collected (1323)
+
+
+
+PokerStars Home Game Hand #214931381000: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:08:00 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #1 is the button
+Seat 1: RobOClubs (9800 in chips) 
+Seat 2: Holdin_Horace (8700 in chips) 
+Seat 3: bengozoli (10712 in chips) 
+Seat 4: Adamvrg (10623 in chips) 
+Seat 5: OwlInAllison (10000 in chips) 
+Holdin_Horace: posts small blind 50
+bengozoli: posts big blind 100
+OwlInAllison: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [9d 8d]
+Adamvrg: calls 100
+OwlInAllison: checks 
+RobOClubs: calls 100
+Holdin_Horace: calls 50
+bengozoli: raises 500 to 600
+Adamvrg: calls 500
+OwlInAllison: calls 500
+RobOClubs: calls 500
+Holdin_Horace: calls 500
+*** FLOP *** [3h 6c 4d]
+Holdin_Horace: checks 
+bengozoli: bets 1500
+Adamvrg: folds 
+OwlInAllison: calls 1500
+RobOClubs: folds 
+Holdin_Horace: folds 
+*** TURN *** [3h 6c 4d] [2d]
+bengozoli: bets 5670
+OwlInAllison: raises 2230 to 7900 and is all-in
+bengozoli: calls 2230
+*** RIVER *** [3h 6c 4d 2d] [5s]
+*** SHOW DOWN ***
+bengozoli: shows [7h Ac] (a straight, Three to Seven)
+OwlInAllison: shows [Kh 5c] (a straight, Deuce to Six)
+bengozoli collected 20601 from pot
+*** SUMMARY ***
+Total pot 21800 | Rake 1199 
+Board [3h 6c 4d 2d 5s]
+Seat 1: RobOClubs (button) folded on the Flop
+Seat 2: Holdin_Horace (small blind) folded on the Flop
+Seat 3: bengozoli (big blind) showed [7h Ac] and won (20601) with a straight, Three to Seven
+Seat 4: Adamvrg folded on the Flop
+Seat 5: OwlInAllison showed [Kh 5c] and lost with a straight, Deuce to Six
+
+
+
+PokerStars Home Game Hand #214931410782: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:09:24 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #2 is the button
+Seat 1: RobOClubs (9200 in chips) 
+Seat 2: Holdin_Horace (8100 in chips) 
+Seat 3: bengozoli (21313 in chips) 
+Seat 4: Adamvrg (10023 in chips) 
+bengozoli: posts small blind 50
+Adamvrg: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [Kc Kh]
+RobOClubs: calls 100
+Holdin_Horace: raises 100 to 200
+bengozoli: calls 150
+Adamvrg: folds 
+RobOClubs: calls 100
+*** FLOP *** [3c Qc Ad]
+bengozoli: checks 
+RobOClubs: checks 
+Holdin_Horace: bets 300
+bengozoli: calls 300
+RobOClubs: folds 
+*** TURN *** [3c Qc Ad] [Qd]
+bengozoli: checks 
+Holdin_Horace: bets 300
+bengozoli: folds 
+Uncalled bet (300) returned to Holdin_Horace
+Holdin_Horace collected 1228 from pot
+Holdin_Horace: doesn't show hand 
+*** SUMMARY ***
+Total pot 1300 | Rake 72 
+Board [3c Qc Ad Qd]
+Seat 1: RobOClubs folded on the Flop
+Seat 2: Holdin_Horace (button) collected (1228)
+Seat 3: bengozoli (small blind) folded on the Turn
+Seat 4: Adamvrg (big blind) folded before Flop
+
+
+
+PokerStars Home Game Hand #214931422500: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:09:58 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #3 is the button
+Seat 1: RobOClubs (9000 in chips) 
+Seat 2: Holdin_Horace (8828 in chips) 
+Seat 3: bengozoli (20813 in chips) 
+Seat 4: Adamvrg (9923 in chips) 
+Seat 5: OwlInAllison (10000 in chips) 
+Adamvrg: posts small blind 50
+OwlInAllison: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [3d 3h]
+RobOClubs: calls 100
+Holdin_Horace: calls 100
+bengozoli: raises 450 to 550
+Adamvrg: calls 500
+OwlInAllison: folds 
+RobOClubs: folds 
+Holdin_Horace: calls 450
+*** FLOP *** [Ah 5c 7h]
+Adamvrg: checks 
+Holdin_Horace: bets 400
+bengozoli: raises 1274 to 1674
+Adamvrg: raises 1274 to 2948
+Holdin_Horace: folds 
+bengozoli: calls 1274
+*** TURN *** [Ah 5c 7h] [5h]
+Adamvrg: bets 6425 and is all-in
+bengozoli: folds 
+Uncalled bet (6425) returned to Adamvrg
+Adamvrg collected 7698 from pot
+Adamvrg: doesn't show hand 
+*** SUMMARY ***
+Total pot 8146 | Rake 448 
+Board [Ah 5c 7h 5h]
+Seat 1: RobOClubs folded before Flop
+Seat 2: Holdin_Horace folded on the Flop
+Seat 3: bengozoli (button) folded on the Turn
+Seat 4: Adamvrg (small blind) collected (7698)
+Seat 5: OwlInAllison (big blind) folded before Flop
+
+
+
+PokerStars Home Game Hand #214931439606: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:10:46 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #4 is the button
+Seat 1: RobOClubs (8900 in chips) 
+Seat 2: Holdin_Horace (7878 in chips) 
+Seat 3: bengozoli (17315 in chips) 
+Seat 4: Adamvrg (14123 in chips) 
+Seat 5: OwlInAllison (9900 in chips) 
+OwlInAllison: posts small blind 50
+RobOClubs: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [Ts 9h]
+Holdin_Horace: calls 100
+bengozoli: raises 350 to 450
+Adamvrg: folds 
+OwlInAllison: folds 
+RobOClubs: calls 350
+Holdin_Horace: folds 
+*** FLOP *** [5s 7c Qd]
+RobOClubs: bets 1500
+bengozoli: raises 3992 to 5492
+RobOClubs: folds 
+Uncalled bet (3992) returned to bengozoli
+bengozoli collected 3827 from pot
+bengozoli: doesn't show hand 
+*** SUMMARY ***
+Total pot 4050 | Rake 223 
+Board [5s 7c Qd]
+Seat 1: RobOClubs (big blind) folded on the Flop
+Seat 2: Holdin_Horace folded before Flop
+Seat 3: bengozoli collected (3827)
+Seat 4: Adamvrg (button) folded before Flop (didn't bet)
+Seat 5: OwlInAllison (small blind) folded before Flop
+
+
+
+PokerStars Home Game Hand #214931454151: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:11:27 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #5 is the button
+Seat 1: RobOClubs (6950 in chips) 
+Seat 2: Holdin_Horace (7778 in chips) 
+Seat 3: bengozoli (19192 in chips) 
+Seat 4: Adamvrg (14123 in chips) 
+Seat 5: OwlInAllison (9850 in chips) 
+RobOClubs: posts small blind 50
+Holdin_Horace: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [Ah 2c]
+bengozoli: raises 250 to 350
+Adamvrg: folds 
+OwlInAllison: calls 350
+RobOClubs: folds 
+Holdin_Horace: calls 250
+*** FLOP *** [Ks As 5c]
+Holdin_Horace: bets 300
+bengozoli: folds 
+OwlInAllison: calls 300
+*** TURN *** [Ks As 5c] [6s]
+Holdin_Horace: bets 400
+OwlInAllison: calls 400
+*** RIVER *** [Ks As 5c 6s] [Qd]
+Holdin_Horace: checks 
+OwlInAllison: bets 2362
+Holdin_Horace: calls 2362
+*** SHOW DOWN ***
+OwlInAllison: shows [Jd Tc] (a straight, Ten to Ace)
+Holdin_Horace: mucks hand 
+OwlInAllison collected 6827 from pot
+*** SUMMARY ***
+Total pot 7224 | Rake 397 
+Board [Ks As 5c 6s Qd]
+Seat 1: RobOClubs (small blind) folded before Flop
+Seat 2: Holdin_Horace (big blind) mucked [Ah 2c]
+Seat 3: bengozoli folded on the Flop
+Seat 4: Adamvrg folded before Flop (didn't bet)
+Seat 5: OwlInAllison (button) showed [Jd Tc] and won (6827) with a straight, Ten to Ace
+
+
+
+PokerStars Home Game Hand #214931474314: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:12:24 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #1 is the button
+Seat 1: RobOClubs (6900 in chips) 
+Seat 2: Holdin_Horace (4366 in chips) 
+Seat 3: bengozoli (18842 in chips) 
+Seat 4: Adamvrg (14123 in chips) 
+Seat 5: OwlInAllison (13265 in chips) 
+Holdin_Horace: posts small blind 50
+bengozoli: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [9c Kh]
+Adamvrg: folds 
+OwlInAllison: calls 100
+RobOClubs: calls 100
+Holdin_Horace: calls 50
+bengozoli: raises 500 to 600
+OwlInAllison: calls 500
+RobOClubs: folds 
+Holdin_Horace: folds 
+*** FLOP *** [As Jh Th]
+bengozoli: bets 1323
+OwlInAllison: calls 1323
+*** TURN *** [As Jh Th] [8s]
+bengozoli: checks 
+OwlInAllison: checks 
+*** RIVER *** [As Jh Th 8s] [3d]
+bengozoli: bets 1000
+OwlInAllison: folds 
+Uncalled bet (1000) returned to bengozoli
+bengozoli collected 3823 from pot
+bengozoli: doesn't show hand 
+*** SUMMARY ***
+Total pot 4046 | Rake 223 
+Board [As Jh Th 8s 3d]
+Seat 1: RobOClubs (button) folded before Flop
+Seat 2: Holdin_Horace (small blind) folded before Flop
+Seat 3: bengozoli (big blind) collected (3823)
+Seat 4: Adamvrg folded before Flop (didn't bet)
+Seat 5: OwlInAllison folded on the River
+
+
+
+PokerStars Home Game Hand #214931499257: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:13:33 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #2 is the button
+Seat 1: RobOClubs (6800 in chips) 
+Seat 2: Holdin_Horace (4266 in chips) 
+Seat 3: bengozoli (20742 in chips) 
+Seat 4: Adamvrg (14123 in chips) 
+Seat 5: OwlInAllison (11342 in chips) 
+bengozoli: posts small blind 50
+Adamvrg: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [5d 7c]
+OwlInAllison: calls 100
+RobOClubs: calls 100
+Holdin_Horace: folds 
+bengozoli: folds 
+Adamvrg: checks 
+*** FLOP *** [Th 2c 8s]
+Adamvrg: bets 400
+OwlInAllison: calls 400
+RobOClubs: folds 
+*** TURN *** [Th 2c 8s] [6s]
+Adamvrg: bets 600
+OwlInAllison: raises 600 to 1200
+Adamvrg: calls 600
+*** RIVER *** [Th 2c 8s 6s] [Qc]
+Adamvrg: bets 3400
+OwlInAllison: raises 3400 to 6800
+Adamvrg: raises 3400 to 10200
+OwlInAllison: calls 2842 and is all-in
+Uncalled bet (558) returned to Adamvrg
+*** SHOW DOWN ***
+Adamvrg: shows [8h 7h] (a pair of Eights)
+OwlInAllison: shows [Ad 8c] (a pair of Eights - Ace kicker)
+OwlInAllison collected 21578 from pot
+*** SUMMARY ***
+Total pot 22834 | Rake 1256 
+Board [Th 2c 8s 6s Qc]
+Seat 1: RobOClubs folded on the Flop
+Seat 2: Holdin_Horace (button) folded before Flop (didn't bet)
+Seat 3: bengozoli (small blind) folded before Flop
+Seat 4: Adamvrg (big blind) showed [8h 7h] and lost with a pair of Eights
+Seat 5: OwlInAllison showed [Ad 8c] and won (21578) with a pair of Eights
+
+
+
+PokerStars Home Game Hand #214931522973: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:14:40 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #3 is the button
+Seat 1: RobOClubs (6700 in chips) 
+Seat 2: Holdin_Horace (4266 in chips) 
+Seat 3: bengozoli (20692 in chips) 
+Seat 4: Adamvrg (2781 in chips) 
+Seat 5: OwlInAllison (21578 in chips) 
+Adamvrg: posts small blind 50
+OwlInAllison: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [Jh 6d]
+RobOClubs: calls 100
+Holdin_Horace: calls 100
+bengozoli: raises 450 to 550
+Adamvrg: calls 500
+OwlInAllison: calls 450
+RobOClubs: folds 
+Holdin_Horace: folds 
+*** FLOP *** [Th 4c 6c]
+Adamvrg: checks 
+OwlInAllison: bets 874
+bengozoli: calls 874
+Adamvrg: calls 874
+*** TURN *** [Th 4c 6c] [2s]
+Adamvrg: checks 
+OwlInAllison: bets 2113
+bengozoli: calls 2113
+Adamvrg: folds 
+*** RIVER *** [Th 4c 6c 2s] [3c]
+OwlInAllison: bets 8220
+bengozoli: folds 
+Uncalled bet (8220) returned to OwlInAllison
+OwlInAllison collected 8220 from pot
+OwlInAllison: doesn't show hand 
+*** SUMMARY ***
+Total pot 8698 | Rake 478 
+Board [Th 4c 6c 2s 3c]
+Seat 1: RobOClubs folded before Flop
+Seat 2: Holdin_Horace folded before Flop
+Seat 3: bengozoli (button) folded on the River
+Seat 4: Adamvrg (small blind) folded on the Turn
+Seat 5: OwlInAllison (big blind) collected (8220)
+
+
+
+PokerStars Home Game Hand #214931553324: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:16:04 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #4 is the button
+Seat 1: RobOClubs (6600 in chips) 
+Seat 2: Holdin_Horace (4166 in chips) 
+Seat 3: bengozoli (17155 in chips) 
+Seat 4: Adamvrg (8576 in chips) 
+Seat 5: OwlInAllison (26261 in chips) 
+OwlInAllison: posts small blind 50
+RobOClubs: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [Kc As]
+Holdin_Horace: calls 100
+bengozoli: raises 350 to 450
+Adamvrg: calls 450
+OwlInAllison: calls 400
+RobOClubs: calls 350
+Holdin_Horace: calls 350
+*** FLOP *** [Jd 6h Js]
+OwlInAllison: checks 
+RobOClubs: bets 500
+Holdin_Horace: folds 
+bengozoli: raises 500 to 1000
+Adamvrg: folds 
+OwlInAllison: folds 
+RobOClubs: calls 500
+*** TURN *** [Jd 6h Js] [2s]
+RobOClubs: bets 600
+bengozoli: raises 600 to 1200
+RobOClubs: calls 600
+*** RIVER *** [Jd 6h Js 2s] [3h]
+RobOClubs: checks 
+bengozoli: checks 
+*** SHOW DOWN ***
+RobOClubs: shows [6d 7s] (two pair, Jacks and Sixes)
+bengozoli: shows [6c Ah] (two pair, Jacks and Sixes - Ace kicker)
+bengozoli collected 6284 from pot
+*** SUMMARY ***
+Total pot 6650 | Rake 366 
+Board [Jd 6h Js 2s 3h]
+Seat 1: RobOClubs (big blind) showed [6d 7s] and lost with two pair, Jacks and Sixes
+Seat 2: Holdin_Horace folded on the Flop
+Seat 3: bengozoli showed [6c Ah] and won (6284) with two pair, Jacks and Sixes
+Seat 4: Adamvrg (button) folded on the Flop
+Seat 5: OwlInAllison (small blind) folded on the Flop
+
+
+
+PokerStars Home Game Hand #214931576914: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:17:10 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #5 is the button
+Seat 1: RobOClubs (3950 in chips) 
+Seat 2: Holdin_Horace (3716 in chips) 
+Seat 3: bengozoli (20789 in chips) 
+Seat 4: Adamvrg (10000 in chips) 
+Seat 5: OwlInAllison (25811 in chips) 
+RobOClubs: posts small blind 50
+Holdin_Horace: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [7h Ad]
+bengozoli: calls 100
+Adamvrg: calls 100
+OwlInAllison: folds 
+RobOClubs: calls 50
+Holdin_Horace: checks 
+*** FLOP *** [8c 6s Jh]
+RobOClubs: bets 100
+Holdin_Horace: calls 100
+bengozoli: raises 339 to 439
+Adamvrg: raises 339 to 778
+RobOClubs: calls 678
+Holdin_Horace: folds 
+bengozoli: calls 339
+*** TURN *** [8c 6s Jh] [Qc]
+RobOClubs: bets 100
+bengozoli: calls 100
+Adamvrg: raises 2972 to 3072
+RobOClubs: calls 2972 and is all-in
+bengozoli: folds 
+*** RIVER *** [8c 6s Jh Qc] [Ah]
+*** SHOW DOWN ***
+RobOClubs: shows [6d 6h] (three of a kind, Sixes)
+Adamvrg: shows [9c Jd] (a pair of Jacks)
+RobOClubs collected 8579 from pot
+*** SUMMARY ***
+Total pot 9078 | Rake 499 
+Board [8c 6s Jh Qc Ah]
+Seat 1: RobOClubs (small blind) showed [6d 6h] and won (8579) with three of a kind, Sixes
+Seat 2: Holdin_Horace (big blind) folded on the Flop
+Seat 3: bengozoli folded on the Turn
+Seat 4: Adamvrg showed [9c Jd] and lost with a pair of Jacks
+Seat 5: OwlInAllison (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Home Game Hand #214931600295: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:18:15 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #1 is the button
+Seat 1: RobOClubs (8579 in chips) 
+Seat 2: Holdin_Horace (3516 in chips) 
+Seat 3: bengozoli (19811 in chips) 
+Seat 4: Adamvrg (6050 in chips) 
+Seat 5: OwlInAllison (25811 in chips) 
+Holdin_Horace: posts small blind 50
+bengozoli: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [3h Td]
+Adamvrg: calls 100
+OwlInAllison: folds 
+RobOClubs: calls 100
+Holdin_Horace: calls 50
+bengozoli: raises 500 to 600
+Adamvrg: calls 500
+RobOClubs: calls 500
+Holdin_Horace: folds 
+*** FLOP *** [3s Ah 4c]
+bengozoli: bets 900
+Adamvrg: calls 900
+RobOClubs: folds 
+*** TURN *** [3s Ah 4c] [Js]
+bengozoli: checks 
+Adamvrg: bets 1748
+bengozoli: raises 3496 to 5244
+Adamvrg: calls 2802 and is all-in
+Uncalled bet (694) returned to bengozoli
+*** RIVER *** [3s Ah 4c Js] [4d]
+*** SHOW DOWN ***
+bengozoli: shows [Kh Ac] (two pair, Aces and Fours)
+Adamvrg: shows [Qd 3d] (two pair, Fours and Threes)
+bengozoli collected 12096 from pot
+*** SUMMARY ***
+Total pot 12800 | Rake 704 
+Board [3s Ah 4c Js 4d]
+Seat 1: RobOClubs (button) folded on the Flop
+Seat 2: Holdin_Horace (small blind) folded before Flop
+Seat 3: bengozoli (big blind) showed [Kh Ac] and won (12096) with two pair, Aces and Fours
+Seat 4: Adamvrg showed [Qd 3d] and lost with two pair, Fours and Threes
+Seat 5: OwlInAllison folded before Flop (didn't bet)
+
+
+
+PokerStars Home Game Hand #214931619996: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:19:09 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #2 is the button
+Seat 1: RobOClubs (7979 in chips) 
+Seat 2: Holdin_Horace (3416 in chips) 
+Seat 3: bengozoli (25857 in chips) 
+Seat 5: OwlInAllison (25811 in chips) 
+bengozoli: posts small blind 50
+OwlInAllison: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [9h 4d]
+RobOClubs: calls 100
+Holdin_Horace: calls 100
+bengozoli: calls 50
+OwlInAllison: checks 
+*** FLOP *** [Ah Js 8c]
+bengozoli: checks 
+OwlInAllison: checks 
+RobOClubs: bets 100
+Holdin_Horace: folds 
+bengozoli: folds 
+OwlInAllison: folds 
+Uncalled bet (100) returned to RobOClubs
+RobOClubs collected 378 from pot
+RobOClubs: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 22 
+Board [Ah Js 8c]
+Seat 1: RobOClubs collected (378)
+Seat 2: Holdin_Horace (button) folded on the Flop
+Seat 3: bengozoli (small blind) folded on the Flop
+Seat 5: OwlInAllison (big blind) folded on the Flop
+
+
+
+PokerStars Home Game Hand #214931631665: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:19:41 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #3 is the button
+Seat 1: RobOClubs (8257 in chips) 
+Seat 2: Holdin_Horace (3316 in chips) 
+Seat 3: bengozoli (25757 in chips) 
+Seat 5: OwlInAllison (25711 in chips) 
+OwlInAllison: posts small blind 50
+RobOClubs: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [Th 2c]
+Holdin_Horace: calls 100
+bengozoli: raises 350 to 450
+OwlInAllison: calls 400
+RobOClubs: folds 
+Holdin_Horace: folds 
+*** FLOP *** [7d Qd 3c]
+OwlInAllison: bets 1039
+bengozoli: folds 
+Uncalled bet (1039) returned to OwlInAllison
+OwlInAllison collected 1039 from pot
+OwlInAllison: doesn't show hand 
+*** SUMMARY ***
+Total pot 1100 | Rake 61 
+Board [7d Qd 3c]
+Seat 1: RobOClubs (big blind) folded before Flop
+Seat 2: Holdin_Horace folded before Flop
+Seat 3: bengozoli (button) folded on the Flop
+Seat 5: OwlInAllison (small blind) collected (1039)
+
+
+
+PokerStars Home Game Hand #214931646686: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:20:22 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #5 is the button
+Seat 1: RobOClubs (8157 in chips) 
+Seat 2: Holdin_Horace (3216 in chips) 
+Seat 3: bengozoli (25307 in chips) 
+Seat 4: Adamvrg (10000 in chips) 
+Seat 5: OwlInAllison (26300 in chips) 
+RobOClubs: posts small blind 50
+Holdin_Horace: posts big blind 100
+Adamvrg: posts small & big blinds 150
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [Kd 7s]
+bengozoli: folds 
+Adamvrg has timed out
+Adamvrg: checks 
+OwlInAllison: calls 100
+RobOClubs: raises 300 to 400
+Holdin_Horace: calls 300
+Adamvrg: calls 300
+OwlInAllison: calls 300
+*** FLOP *** [Ks As 9d]
+RobOClubs: bets 500
+Holdin_Horace: calls 500
+Adamvrg: raises 500 to 1000
+OwlInAllison: folds 
+RobOClubs: folds 
+Holdin_Horace: calls 500
+*** TURN *** [Ks As 9d] [8d]
+Holdin_Horace: checks 
+Adamvrg: bets 1815
+Holdin_Horace: raises 1 to 1816 and is all-in
+Adamvrg: calls 1
+*** RIVER *** [Ks As 9d 8d] [Ac]
+*** SHOW DOWN ***
+Holdin_Horace: shows [Kd 7s] (two pair, Aces and Kings)
+Adamvrg: shows [6d Qd] (a pair of Aces)
+Holdin_Horace collected 7354 from pot
+*** SUMMARY ***
+Total pot 7782 | Rake 428 
+Board [Ks As 9d 8d Ac]
+Seat 1: RobOClubs (small blind) folded on the Flop
+Seat 2: Holdin_Horace (big blind) showed [Kd 7s] and won (7354) with two pair, Aces and Kings
+Seat 3: bengozoli folded before Flop (didn't bet)
+Seat 4: Adamvrg showed [6d Qd] and lost with a pair of Aces
+Seat 5: OwlInAllison (button) folded on the Flop
+
+
+
+PokerStars Home Game Hand #214931681533: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:21:58 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #1 is the button
+Seat 1: RobOClubs (7257 in chips) 
+Seat 2: Holdin_Horace (7354 in chips) 
+Seat 3: bengozoli (25307 in chips) 
+Seat 4: Adamvrg (6734 in chips) 
+Seat 5: OwlInAllison (25900 in chips) 
+Holdin_Horace: posts small blind 50
+bengozoli: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [5h 2c]
+Adamvrg: calls 100
+OwlInAllison: calls 100
+RobOClubs: calls 100
+Holdin_Horace: calls 50
+bengozoli: raises 900 to 1000
+Adamvrg: calls 900
+OwlInAllison: folds 
+RobOClubs: folds 
+Holdin_Horace: folds 
+*** FLOP *** [6d 6c Qh]
+bengozoli: bets 2173
+Adamvrg: calls 2173
+*** TURN *** [6d 6c Qh] [Jc]
+bengozoli: checks 
+Adamvrg: checks 
+*** RIVER *** [6d 6c Qh Jc] [Js]
+bengozoli: checks 
+Adamvrg: bets 3561 and is all-in
+bengozoli: folds 
+Uncalled bet (3561) returned to Adamvrg
+Adamvrg collected 6280 from pot
+Adamvrg: doesn't show hand 
+*** SUMMARY ***
+Total pot 6646 | Rake 366 
+Board [6d 6c Qh Jc Js]
+Seat 1: RobOClubs (button) folded before Flop
+Seat 2: Holdin_Horace (small blind) folded before Flop
+Seat 3: bengozoli (big blind) folded on the River
+Seat 4: Adamvrg collected (6280)
+Seat 5: OwlInAllison folded before Flop
+
+
+
+PokerStars Home Game Hand #214931708191: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:23:11 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #2 is the button
+Seat 1: RobOClubs (7157 in chips) 
+Seat 2: Holdin_Horace (7254 in chips) 
+Seat 3: bengozoli (22134 in chips) 
+Seat 4: Adamvrg (10000 in chips) 
+Seat 5: OwlInAllison (25800 in chips) 
+bengozoli: posts small blind 50
+Adamvrg: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [7d 3h]
+OwlInAllison has timed out
+OwlInAllison: folds 
+RobOClubs: raises 300 to 400
+Holdin_Horace: folds 
+bengozoli: folds 
+Adamvrg: calls 300
+*** FLOP *** [5d 5h 7c]
+Adamvrg: checks 
+RobOClubs: bets 1000
+Adamvrg: raises 1100 to 2100
+RobOClubs: calls 1100
+*** TURN *** [5d 5h 7c] [Tc]
+Adamvrg: bets 2300
+RobOClubs: calls 2300
+*** RIVER *** [5d 5h 7c Tc] [9s]
+Adamvrg: bets 5200 and is all-in
+RobOClubs: calls 2357 and is all-in
+Uncalled bet (2843) returned to Adamvrg
+*** SHOW DOWN ***
+Adamvrg: shows [2s 9c] (two pair, Nines and Fives)
+RobOClubs: shows [Kc 4s] (a pair of Fives)
+Adamvrg collected 13574 from pot
+*** SUMMARY ***
+Total pot 14364 | Rake 790 
+Board [5d 5h 7c Tc 9s]
+Seat 1: RobOClubs showed [Kc 4s] and lost with a pair of Fives
+Seat 2: Holdin_Horace (button) folded before Flop (didn't bet)
+Seat 3: bengozoli (small blind) folded before Flop
+Seat 4: Adamvrg (big blind) showed [2s 9c] and won (13574) with two pair, Nines and Fives
+Seat 5: OwlInAllison folded before Flop (didn't bet)
+
+
+
+PokerStars Home Game Hand #214931735344: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:24:26 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #3 is the button
+Seat 2: Holdin_Horace (7254 in chips) 
+Seat 3: bengozoli (22084 in chips) 
+Seat 4: Adamvrg (16417 in chips) 
+Seat 5: OwlInAllison (25800 in chips) 
+Adamvrg: posts small blind 50
+OwlInAllison: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [3d 5d]
+Holdin_Horace: calls 100
+bengozoli: raises 350 to 450
+Adamvrg: calls 400
+OwlInAllison: calls 350
+Holdin_Horace: folds 
+*** FLOP *** [Qc Qs 2c]
+Adamvrg: checks 
+OwlInAllison: checks 
+bengozoli: bets 700
+Adamvrg: raises 700 to 1400
+OwlInAllison: folds 
+bengozoli: folds 
+Uncalled bet (700) returned to Adamvrg
+Adamvrg collected 2693 from pot
+Adamvrg: doesn't show hand 
+*** SUMMARY ***
+Total pot 2850 | Rake 157 
+Board [Qc Qs 2c]
+Seat 2: Holdin_Horace folded before Flop
+Seat 3: bengozoli (button) folded on the Flop
+Seat 4: Adamvrg (small blind) collected (2693)
+Seat 5: OwlInAllison (big blind) folded on the Flop
+
+
+
+PokerStars Home Game Hand #214931749193: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:25:04 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #4 is the button
+Seat 1: RobOClubs (10000 in chips) 
+Seat 2: Holdin_Horace (7154 in chips) 
+Seat 3: bengozoli (20934 in chips) 
+Seat 4: Adamvrg (17960 in chips) 
+Seat 5: OwlInAllison (25350 in chips) 
+OwlInAllison: posts small blind 50
+RobOClubs: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [6c 7h]
+Holdin_Horace: calls 100
+bengozoli: folds 
+Adamvrg: calls 100
+OwlInAllison: folds 
+RobOClubs: checks 
+*** FLOP *** [3c Th 5h]
+RobOClubs: bets 500
+Holdin_Horace: calls 500
+Adamvrg: raises 500 to 1000
+RobOClubs: raises 500 to 1500
+Holdin_Horace: folds 
+Adamvrg: calls 500
+*** TURN *** [3c Th 5h] [Ah]
+RobOClubs: bets 1000
+Adamvrg: calls 1000
+*** RIVER *** [3c Th 5h Ah] [7s]
+RobOClubs: bets 7400 and is all-in
+Adamvrg: folds 
+Uncalled bet (7400) returned to RobOClubs
+RobOClubs collected 5528 from pot
+RobOClubs: doesn't show hand 
+*** SUMMARY ***
+Total pot 5850 | Rake 322 
+Board [3c Th 5h Ah 7s]
+Seat 1: RobOClubs (big blind) collected (5528)
+Seat 2: Holdin_Horace folded on the Flop
+Seat 3: bengozoli folded before Flop (didn't bet)
+Seat 4: Adamvrg (button) folded on the River
+Seat 5: OwlInAllison (small blind) folded before Flop
+
+
+
+PokerStars Home Game Hand #214931771635: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:26:06 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #5 is the button
+Seat 1: RobOClubs (12928 in chips) 
+Seat 2: Holdin_Horace (6554 in chips) 
+Seat 3: bengozoli (20934 in chips) 
+Seat 4: Adamvrg (15360 in chips) 
+Seat 5: OwlInAllison (25300 in chips) 
+RobOClubs: posts small blind 50
+Holdin_Horace: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [9s Qc]
+bengozoli: calls 100
+Adamvrg: calls 100
+OwlInAllison: calls 100
+RobOClubs: calls 50
+Holdin_Horace: checks 
+*** FLOP *** [5d 2d As]
+RobOClubs: bets 600
+Holdin_Horace: folds 
+bengozoli: calls 600
+Adamvrg: calls 600
+OwlInAllison: calls 600
+*** TURN *** [5d 2d As] [Js]
+RobOClubs: bets 1000
+bengozoli: folds 
+Adamvrg: calls 1000
+OwlInAllison: folds 
+*** RIVER *** [5d 2d As Js] [3h]
+RobOClubs: bets 5000
+Adamvrg: raises 5000 to 10000
+RobOClubs: calls 5000
+*** SHOW DOWN ***
+Adamvrg: shows [5c Qd] (a pair of Fives)
+RobOClubs: shows [Jd 8d] (a pair of Jacks)
+RobOClubs collected 23530 from pot
+*** SUMMARY ***
+Total pot 24900 | Rake 1370 
+Board [5d 2d As Js 3h]
+Seat 1: RobOClubs (small blind) showed [Jd 8d] and won (23530) with a pair of Jacks
+Seat 2: Holdin_Horace (big blind) folded on the Flop
+Seat 3: bengozoli folded on the Turn
+Seat 4: Adamvrg showed [5c Qd] and lost with a pair of Fives
+Seat 5: OwlInAllison (button) folded on the Turn
+
+
+
+PokerStars Home Game Hand #214931792256: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:27:03 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #1 is the button
+Seat 1: RobOClubs (24758 in chips) 
+Seat 2: Holdin_Horace (6454 in chips) 
+Seat 3: bengozoli (20234 in chips) 
+Seat 4: Adamvrg (3660 in chips) 
+Seat 5: OwlInAllison (24600 in chips) 
+Holdin_Horace: posts small blind 50
+bengozoli: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [3c Kh]
+Adamvrg: calls 100
+OwlInAllison: calls 100
+RobOClubs: calls 100
+Holdin_Horace: calls 50
+bengozoli: checks 
+*** FLOP *** [2c Ad 4c]
+Holdin_Horace: bets 100
+bengozoli: raises 336 to 436
+Adamvrg: calls 436
+OwlInAllison: folds 
+RobOClubs: calls 436
+Holdin_Horace: calls 336
+*** TURN *** [2c Ad 4c] [Th]
+Holdin_Horace: bets 100
+bengozoli: calls 100
+Adamvrg: calls 100
+RobOClubs: calls 100
+*** RIVER *** [2c Ad 4c Th] [Ah]
+Holdin_Horace: checks 
+bengozoli: checks 
+Adamvrg: bets 2499
+RobOClubs: folds 
+Holdin_Horace: folds 
+bengozoli: folds 
+Uncalled bet (2499) returned to Adamvrg
+Adamvrg collected 2499 from pot
+Adamvrg: doesn't show hand 
+*** SUMMARY ***
+Total pot 2644 | Rake 145 
+Board [2c Ad 4c Th Ah]
+Seat 1: RobOClubs (button) folded on the River
+Seat 2: Holdin_Horace (small blind) folded on the River
+Seat 3: bengozoli (big blind) folded on the River
+Seat 4: Adamvrg collected (2499)
+Seat 5: OwlInAllison folded on the Flop
+
+
+
+PokerStars Home Game Hand #214931809941: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:27:51 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #2 is the button
+Seat 1: RobOClubs (24122 in chips) 
+Seat 2: Holdin_Horace (5818 in chips) 
+Seat 3: bengozoli (19598 in chips) 
+Seat 4: Adamvrg (10000 in chips) 
+Seat 5: OwlInAllison (24500 in chips) 
+bengozoli: posts small blind 50
+Adamvrg: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [2c 2d]
+OwlInAllison: calls 100
+RobOClubs: calls 100
+Holdin_Horace: calls 100
+bengozoli: folds 
+Adamvrg: raises 400 to 500
+OwlInAllison: calls 400
+RobOClubs: calls 400
+Holdin_Horace: calls 400
+*** FLOP *** [6h 6d 9d]
+Adamvrg: bets 1000
+OwlInAllison: folds 
+RobOClubs: raises 1000 to 2000
+Holdin_Horace: calls 2000
+Adamvrg: calls 1000
+*** TURN *** [6h 6d 9d] [Ac]
+Adamvrg: bets 3900
+RobOClubs: raises 3900 to 7800
+Holdin_Horace: calls 3318 and is all-in
+Adamvrg: calls 3600 and is all-in
+Uncalled bet (300) returned to RobOClubs
+*** RIVER *** [6h 6d 9d Ac] [Ks]
+*** SHOW DOWN ***
+Adamvrg: shows [Td Th] (two pair, Tens and Sixes)
+RobOClubs: shows [6c 5c] (three of a kind, Sixes)
+RobOClubs collected 7904 from side pot
+Holdin_Horace: shows [2c 2d] (two pair, Sixes and Deuces)
+RobOClubs collected 17014 from main pot
+*** SUMMARY ***
+Total pot 26368 Main pot 17014. Side pot 7904. | Rake 1450 
+Board [6h 6d 9d Ac Ks]
+Seat 1: RobOClubs showed [6c 5c] and won (24918) with three of a kind, Sixes
+Seat 2: Holdin_Horace (button) showed [2c 2d] and lost with two pair, Sixes and Deuces
+Seat 3: bengozoli (small blind) folded before Flop
+Seat 4: Adamvrg (big blind) showed [Td Th] and lost with two pair, Tens and Sixes
+Seat 5: OwlInAllison folded on the Flop
+
+
+
+PokerStars Home Game Hand #214931848356: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:29:37 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #5 is the button
+Seat 1: RobOClubs (41499 in chips) 
+Seat 2: Holdin_Horace (10000 in chips) 
+Seat 3: bengozoli (19548 in chips) 
+Seat 4: Adamvrg (10000 in chips) 
+Seat 5: OwlInAllison (21237 in chips) 
+RobOClubs: posts small blind 50
+Holdin_Horace: posts big blind 100
+Adamvrg: posts small blind 50
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [Ad 2s]
+bengozoli: folds 
+Adamvrg: calls 100
+OwlInAllison: folds 
+RobOClubs: calls 50
+Holdin_Horace: checks 
+*** FLOP *** [Ts 7d 4h]
+RobOClubs: checks 
+Holdin_Horace: checks 
+Adamvrg: checks 
+*** TURN *** [Ts 7d 4h] [3h]
+RobOClubs: checks 
+Holdin_Horace: checks 
+Adamvrg: bets 400
+RobOClubs: folds 
+Holdin_Horace: folds 
+Uncalled bet (400) returned to Adamvrg
+Adamvrg collected 331 from pot
+Adamvrg: doesn't show hand 
+*** SUMMARY ***
+Total pot 350 | Rake 19 
+Board [Ts 7d 4h 3h]
+Seat 1: RobOClubs (small blind) folded on the Turn
+Seat 2: Holdin_Horace (big blind) folded on the Turn
+Seat 3: bengozoli folded before Flop (didn't bet)
+Seat 4: Adamvrg collected (331)
+Seat 5: OwlInAllison (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Home Game Hand #214931858988: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:30:06 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #1 is the button
+Seat 1: RobOClubs (41399 in chips) 
+Seat 2: Holdin_Horace (9900 in chips) 
+Seat 3: bengozoli (19548 in chips) 
+Seat 4: Adamvrg (10181 in chips) 
+Seat 5: OwlInAllison (21237 in chips) 
+Holdin_Horace: posts small blind 50
+bengozoli: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [Ah 7c]
+Adamvrg: calls 100
+OwlInAllison: calls 100
+RobOClubs: calls 100
+Holdin_Horace: calls 50
+bengozoli: checks 
+*** FLOP *** [8c Kd Ts]
+Holdin_Horace: checks 
+bengozoli: checks 
+Adamvrg: bets 400
+OwlInAllison: raises 400 to 800
+RobOClubs: folds 
+Holdin_Horace: folds 
+bengozoli: folds 
+Adamvrg: calls 400
+*** TURN *** [8c Kd Ts] [7d]
+Adamvrg: checks 
+OwlInAllison: bets 2000
+Adamvrg: calls 2000
+*** RIVER *** [8c Kd Ts 7d] [Ks]
+Adamvrg: checks 
+OwlInAllison: bets 2882
+Adamvrg: raises 2882 to 5764
+OwlInAllison: calls 2882
+*** SHOW DOWN ***
+Adamvrg: shows [5h Th] (two pair, Kings and Tens)
+OwlInAllison: mucks hand 
+Adamvrg collected 16658 from pot
+*** SUMMARY ***
+Total pot 17628 | Rake 970 
+Board [8c Kd Ts 7d Ks]
+Seat 1: RobOClubs (button) folded on the Flop
+Seat 2: Holdin_Horace (small blind) folded on the Flop
+Seat 3: bengozoli (big blind) folded on the Flop
+Seat 4: Adamvrg showed [5h Th] and won (16658) with two pair, Kings and Tens
+Seat 5: OwlInAllison mucked [5s Qs]
+
+
+
+PokerStars Home Game Hand #214931888780: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:31:28 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #2 is the button
+Seat 1: RobOClubs (41299 in chips) 
+Seat 2: Holdin_Horace (9800 in chips) 
+Seat 3: bengozoli (19448 in chips) 
+Seat 4: Adamvrg (18175 in chips) 
+Seat 5: OwlInAllison (12573 in chips) 
+bengozoli: posts small blind 50
+Adamvrg: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [3d 8d]
+OwlInAllison: calls 100
+RobOClubs: calls 100
+Holdin_Horace: calls 100
+bengozoli: folds 
+Adamvrg: checks 
+*** FLOP *** [Jh 9h 8h]
+Adamvrg: checks 
+OwlInAllison: checks 
+RobOClubs: checks 
+Holdin_Horace: bets 400
+Adamvrg: calls 400
+OwlInAllison: folds 
+RobOClubs: calls 400
+*** TURN *** [Jh 9h 8h] [2c]
+Adamvrg: checks 
+RobOClubs: checks 
+Holdin_Horace: bets 500
+Adamvrg: raises 500 to 1000
+RobOClubs: folds 
+Holdin_Horace: calls 500
+*** RIVER *** [Jh 9h 8h 2c] [Js]
+Adamvrg: bets 1800
+Holdin_Horace: calls 1800
+*** SHOW DOWN ***
+Adamvrg: shows [Ah 3c] (a pair of Jacks)
+Holdin_Horace: shows [3d 8d] (two pair, Jacks and Eights)
+Holdin_Horace collected 6851 from pot
+*** SUMMARY ***
+Total pot 7250 | Rake 399 
+Board [Jh 9h 8h 2c Js]
+Seat 1: RobOClubs folded on the Turn
+Seat 2: Holdin_Horace (button) showed [3d 8d] and won (6851) with two pair, Jacks and Eights
+Seat 3: bengozoli (small blind) folded before Flop
+Seat 4: Adamvrg (big blind) showed [Ah 3c] and lost with a pair of Jacks
+Seat 5: OwlInAllison folded on the Flop
+
+
+
+PokerStars Home Game Hand #214931911808: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:32:31 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #3 is the button
+Seat 1: RobOClubs (40799 in chips) 
+Seat 2: Holdin_Horace (13351 in chips) 
+Seat 3: bengozoli (19398 in chips) 
+Seat 4: Adamvrg (14875 in chips) 
+Seat 5: OwlInAllison (12473 in chips) 
+Adamvrg: posts small blind 50
+OwlInAllison: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [Jc 3s]
+RobOClubs: calls 100
+Holdin_Horace: calls 100
+bengozoli: folds 
+Adamvrg: calls 50
+OwlInAllison: checks 
+*** FLOP *** [Th 5s 3c]
+Adamvrg: checks 
+OwlInAllison: bets 189
+RobOClubs: calls 189
+Holdin_Horace: calls 189
+Adamvrg: calls 189
+*** TURN *** [Th 5s 3c] [Kc]
+Adamvrg: checks 
+OwlInAllison: checks 
+RobOClubs: bets 3000
+Holdin_Horace: folds 
+Adamvrg: folds 
+OwlInAllison: calls 3000
+*** RIVER *** [Th 5s 3c Kc] [3h]
+OwlInAllison: checks 
+RobOClubs: bets 9183
+OwlInAllison: raises 1 to 9184 and is all-in
+RobOClubs: calls 1
+*** SHOW DOWN ***
+OwlInAllison: shows [Ts Ad] (two pair, Tens and Threes)
+RobOClubs: shows [7s Kd] (two pair, Kings and Threes)
+RobOClubs collected 24120 from pot
+*** SUMMARY ***
+Total pot 25524 | Rake 1404 
+Board [Th 5s 3c Kc 3h]
+Seat 1: RobOClubs showed [7s Kd] and won (24120) with two pair, Kings and Threes
+Seat 2: Holdin_Horace folded on the Turn
+Seat 3: bengozoli (button) folded before Flop (didn't bet)
+Seat 4: Adamvrg (small blind) folded on the Turn
+Seat 5: OwlInAllison (big blind) showed [Ts Ad] and lost with two pair, Tens and Threes
+
+
+
+PokerStars Home Game Hand #214931950175: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:34:01 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #4 is the button
+Seat 1: RobOClubs (52446 in chips) 
+Seat 2: Holdin_Horace (13062 in chips) 
+Seat 3: bengozoli (19398 in chips) 
+Seat 4: Adamvrg (14586 in chips) 
+RobOClubs: posts small blind 50
+Holdin_Horace: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [6s 5c]
+bengozoli: folds 
+Adamvrg: calls 100
+RobOClubs: calls 50
+Holdin_Horace: checks 
+*** FLOP *** [As 3s Ts]
+RobOClubs: bets 500
+Holdin_Horace: folds 
+Adamvrg: calls 500
+*** TURN *** [As 3s Ts] [Kd]
+RobOClubs: checks 
+Adamvrg: bets 614
+RobOClubs: calls 614
+*** RIVER *** [As 3s Ts Kd] [2s]
+RobOClubs: checks 
+Adamvrg: bets 2400
+RobOClubs: folds 
+Uncalled bet (2400) returned to Adamvrg
+Adamvrg collected 2389 from pot
+Adamvrg: doesn't show hand 
+*** SUMMARY ***
+Total pot 2528 | Rake 139 
+Board [As 3s Ts Kd 2s]
+Seat 1: RobOClubs (small blind) folded on the River
+Seat 2: Holdin_Horace (big blind) folded on the Flop
+Seat 3: bengozoli folded before Flop (didn't bet)
+Seat 4: Adamvrg (button) collected (2389)
+
+
+
+PokerStars Home Game Hand #214931966621: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:34:46 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #1 is the button
+Seat 1: RobOClubs (51232 in chips) 
+Seat 2: Holdin_Horace (12962 in chips) 
+Seat 3: bengozoli (19398 in chips) 
+Seat 4: Adamvrg (15761 in chips) 
+Seat 5: OwlInAllison (10000 in chips) 
+Holdin_Horace: posts small blind 50
+bengozoli: posts big blind 100
+OwlInAllison: posts small blind 50
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [Td 7h]
+Adamvrg: calls 100
+OwlInAllison: calls 100
+RobOClubs: calls 100
+Holdin_Horace: calls 50
+bengozoli: raises 550 to 650
+Adamvrg: calls 550
+OwlInAllison: calls 550
+RobOClubs: calls 550
+Holdin_Horace: folds 
+*** FLOP *** [8d 6s Ts]
+bengozoli: bets 2400
+Adamvrg: calls 2400
+OwlInAllison: folds 
+RobOClubs: folds 
+*** TURN *** [8d 6s Ts] [8c]
+bengozoli: bets 7135
+Adamvrg: calls 7135
+*** RIVER *** [8d 6s Ts 8c] [7c]
+bengozoli: bets 9213 and is all-in
+Adamvrg: calls 5576 and is all-in
+Uncalled bet (3637) returned to bengozoli
+*** SHOW DOWN ***
+bengozoli: shows [As 7s] (two pair, Eights and Sevens)
+Adamvrg: shows [7d Ad] (two pair, Eights and Sevens)
+bengozoli collected 15580 from pot
+Adamvrg collected 15579 from pot
+*** SUMMARY ***
+Total pot 32972 | Rake 1813 
+Board [8d 6s Ts 8c 7c]
+Seat 1: RobOClubs (button) folded on the Flop
+Seat 2: Holdin_Horace (small blind) folded before Flop
+Seat 3: bengozoli (big blind) showed [As 7s] and won (15580) with two pair, Eights and Sevens
+Seat 4: Adamvrg showed [7d Ad] and won (15579) with two pair, Eights and Sevens
+Seat 5: OwlInAllison folded on the Flop
+
+
+
+PokerStars Home Game Hand #214931981947: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:35:28 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #2 is the button
+Seat 1: RobOClubs (50582 in chips) 
+Seat 2: Holdin_Horace (12862 in chips) 
+Seat 3: bengozoli (19217 in chips) 
+Seat 4: Adamvrg (15579 in chips) 
+Seat 5: OwlInAllison (9300 in chips) 
+bengozoli: posts small blind 50
+Adamvrg: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [Kd As]
+OwlInAllison: calls 100
+RobOClubs: calls 100
+Holdin_Horace: calls 100
+bengozoli: calls 50
+Adamvrg: checks 
+*** FLOP *** [2h 6s 2d]
+bengozoli: checks 
+Adamvrg: checks 
+OwlInAllison: checks 
+RobOClubs: checks 
+Holdin_Horace: checks 
+*** TURN *** [2h 6s 2d] [5c]
+bengozoli has timed out
+bengozoli: checks 
+Adamvrg: bets 200
+OwlInAllison: raises 872 to 1072
+RobOClubs: folds 
+Holdin_Horace: folds 
+bengozoli: folds 
+Adamvrg: raises 872 to 1944
+OwlInAllison: calls 872
+*** RIVER *** [2h 6s 2d 5c] [Th]
+Adamvrg: bets 2000
+OwlInAllison: raises 2000 to 4000
+Adamvrg: raises 6600 to 10600
+OwlInAllison: calls 3256 and is all-in
+Uncalled bet (3344) returned to Adamvrg
+*** SHOW DOWN ***
+Adamvrg: shows [2s 5h] (a full house, Deuces full of Fives)
+OwlInAllison: shows [Ts Ac] (two pair, Tens and Deuces)
+Adamvrg collected 17860 from pot
+*** SUMMARY ***
+Total pot 18900 | Rake 1040 
+Board [2h 6s 2d 5c Th]
+Seat 1: RobOClubs folded on the Turn
+Seat 2: Holdin_Horace (button) folded on the Turn
+Seat 3: bengozoli (small blind) folded on the Turn
+Seat 4: Adamvrg (big blind) showed [2s 5h] and won (17860) with a full house, Deuces full of Fives
+Seat 5: OwlInAllison showed [Ts Ac] and lost with two pair, Tens and Deuces
+
+
+
+PokerStars Home Game Hand #214932020546: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:37:13 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #3 is the button
+Seat 1: RobOClubs (50482 in chips) 
+Seat 2: Holdin_Horace (12762 in chips) 
+Seat 3: bengozoli (19117 in chips) 
+Seat 4: Adamvrg (24139 in chips) 
+Adamvrg: posts small blind 50
+RobOClubs: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [Jc 7s]
+Holdin_Horace: calls 100
+bengozoli: calls 100
+Adamvrg: calls 50
+RobOClubs: checks 
+*** FLOP *** [Kh 9h 4s]
+Adamvrg: checks 
+RobOClubs: checks 
+Holdin_Horace: checks 
+bengozoli: checks 
+*** TURN *** [Kh 9h 4s] [7d]
+Adamvrg: checks 
+RobOClubs: checks 
+Holdin_Horace: bets 100
+bengozoli: folds 
+Adamvrg: calls 100
+RobOClubs: calls 100
+*** RIVER *** [Kh 9h 4s 7d] [5c]
+Adamvrg: checks 
+RobOClubs: checks 
+Holdin_Horace: checks 
+*** SHOW DOWN ***
+Adamvrg: shows [3h Ah] (high card Ace)
+RobOClubs: shows [6d 9s] (a pair of Nines)
+Holdin_Horace: mucks hand 
+RobOClubs collected 661 from pot
+*** SUMMARY ***
+Total pot 700 | Rake 39 
+Board [Kh 9h 4s 7d 5c]
+Seat 1: RobOClubs (big blind) showed [6d 9s] and won (661) with a pair of Nines
+Seat 2: Holdin_Horace mucked [Jc 7s]
+Seat 3: bengozoli (button) folded on the Turn
+Seat 4: Adamvrg (small blind) showed [3h Ah] and lost with high card Ace
+
+
+
+PokerStars Home Game Hand #214932044403: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:38:18 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #4 is the button
+Seat 1: RobOClubs (50943 in chips) 
+Seat 2: Holdin_Horace (12562 in chips) 
+Seat 3: bengozoli (19017 in chips) 
+Seat 4: Adamvrg (23939 in chips) 
+RobOClubs: posts small blind 50
+Holdin_Horace: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [3d Js]
+bengozoli: calls 100
+Adamvrg: calls 100
+RobOClubs: calls 50
+Holdin_Horace: checks 
+*** FLOP *** [Jc Ac 8d]
+RobOClubs: checks 
+Holdin_Horace: checks 
+bengozoli: checks 
+Adamvrg: checks 
+*** TURN *** [Jc Ac 8d] [2s]
+RobOClubs: checks 
+Holdin_Horace: bets 400
+bengozoli: folds 
+Adamvrg: folds 
+RobOClubs: folds 
+Uncalled bet (400) returned to Holdin_Horace
+Holdin_Horace collected 378 from pot
+Holdin_Horace: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 22 
+Board [Jc Ac 8d 2s]
+Seat 1: RobOClubs (small blind) folded on the Turn
+Seat 2: Holdin_Horace (big blind) collected (378)
+Seat 3: bengozoli folded on the Turn
+Seat 4: Adamvrg (button) folded on the Turn
+
+
+
+PokerStars Home Game Hand #214932066529: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:39:19 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #1 is the button
+Seat 1: RobOClubs (50843 in chips) 
+Seat 2: Holdin_Horace (12840 in chips) 
+Seat 3: bengozoli (18917 in chips) 
+Seat 4: Adamvrg (23839 in chips) 
+Seat 5: OwlInAllison (10000 in chips) 
+Holdin_Horace: posts small blind 50
+bengozoli: posts big blind 100
+OwlInAllison: posts small & big blinds 150
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [9d Ah]
+Adamvrg: calls 100
+OwlInAllison: checks 
+RobOClubs: calls 100
+Holdin_Horace: calls 50
+bengozoli: raises 550 to 650
+Adamvrg: calls 550
+OwlInAllison: folds 
+RobOClubs: calls 550
+Holdin_Horace: calls 550
+*** FLOP *** [6c 2h 6d]
+Holdin_Horace: checks 
+bengozoli: bets 2599
+Adamvrg: folds 
+RobOClubs: folds 
+Holdin_Horace: folds 
+Uncalled bet (2599) returned to bengozoli
+bengozoli collected 2599 from pot
+bengozoli: doesn't show hand 
+*** SUMMARY ***
+Total pot 2750 | Rake 151 
+Board [6c 2h 6d]
+Seat 1: RobOClubs (button) folded on the Flop
+Seat 2: Holdin_Horace (small blind) folded on the Flop
+Seat 3: bengozoli (big blind) collected (2599)
+Seat 4: Adamvrg folded on the Flop
+Seat 5: OwlInAllison folded before Flop (didn't bet)
+
+
+
+PokerStars Home Game Hand #214932086871: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:40:15 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #2 is the button
+Seat 1: RobOClubs (50193 in chips) 
+Seat 2: Holdin_Horace (12190 in chips) 
+Seat 3: bengozoli (20866 in chips) 
+Seat 4: Adamvrg (23189 in chips) 
+Seat 5: OwlInAllison (9850 in chips) 
+bengozoli: posts small blind 50
+Adamvrg: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [Kc 7d]
+OwlInAllison: calls 100
+RobOClubs: calls 100
+Holdin_Horace: calls 100
+bengozoli: folds 
+Adamvrg: checks 
+*** FLOP *** [6s 2d 6h]
+Adamvrg: bets 500
+OwlInAllison: folds 
+RobOClubs: folds 
+Holdin_Horace: calls 500
+*** TURN *** [6s 2d 6h] [Ts]
+Adamvrg: bets 400
+Holdin_Horace: folds 
+Uncalled bet (400) returned to Adamvrg
+Adamvrg collected 1370 from pot
+Adamvrg: doesn't show hand 
+*** SUMMARY ***
+Total pot 1450 | Rake 80 
+Board [6s 2d 6h Ts]
+Seat 1: RobOClubs folded on the Flop
+Seat 2: Holdin_Horace (button) folded on the Turn
+Seat 3: bengozoli (small blind) folded before Flop
+Seat 4: Adamvrg (big blind) collected (1370)
+Seat 5: OwlInAllison folded on the Flop
+
+
+
+PokerStars Home Game Hand #214932110399: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:41:20 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #3 is the button
+Seat 1: RobOClubs (50093 in chips) 
+Seat 2: Holdin_Horace (11590 in chips) 
+Seat 3: bengozoli (20816 in chips) 
+Seat 4: Adamvrg (23959 in chips) 
+Seat 5: OwlInAllison (9750 in chips) 
+Adamvrg: posts small blind 50
+OwlInAllison: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [2h 5c]
+RobOClubs: calls 100
+Holdin_Horace: calls 100
+bengozoli: raises 450 to 550
+Adamvrg: raises 450 to 1000
+OwlInAllison: calls 900
+RobOClubs: calls 900
+Holdin_Horace: folds 
+bengozoli: calls 450
+*** FLOP *** [5s 6h Js]
+Adamvrg: bets 400
+OwlInAllison: folds 
+RobOClubs: raises 7700 to 8100
+bengozoli: raises 11716 to 19816 and is all-in
+Adamvrg: calls 19416
+RobOClubs: folds 
+*** TURN *** [5s 6h Js] [Th]
+*** RIVER *** [5s 6h Js Th] [3d]
+*** SHOW DOWN ***
+Adamvrg: shows [Kd Kh] (a pair of Kings)
+bengozoli: shows [6d Td] (two pair, Tens and Sixes)
+bengozoli collected 48981 from pot
+*** SUMMARY ***
+Total pot 51832 | Rake 2851 
+Board [5s 6h Js Th 3d]
+Seat 1: RobOClubs folded on the Flop
+Seat 2: Holdin_Horace folded before Flop
+Seat 3: bengozoli (button) showed [6d Td] and won (48981) with two pair, Tens and Sixes
+Seat 4: Adamvrg (small blind) showed [Kd Kh] and lost with a pair of Kings
+Seat 5: OwlInAllison (big blind) folded on the Flop
+
+
+
+PokerStars Home Game Hand #214932139204: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:42:38 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #4 is the button
+Seat 1: RobOClubs (40993 in chips) 
+Seat 2: Holdin_Horace (11490 in chips) 
+Seat 3: bengozoli (48981 in chips) 
+Seat 4: Adamvrg (3143 in chips) 
+Seat 5: OwlInAllison (8750 in chips) 
+OwlInAllison: posts small blind 50
+RobOClubs: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [Kc Jh]
+Holdin_Horace: calls 100
+bengozoli: raises 350 to 450
+Adamvrg: calls 450
+OwlInAllison: folds 
+RobOClubs: calls 350
+Holdin_Horace: calls 350
+*** FLOP *** [2s 3s Qh]
+RobOClubs: checks 
+Holdin_Horace: checks 
+bengozoli: bets 874
+Adamvrg: raises 874 to 1748
+RobOClubs: folds 
+Holdin_Horace: folds 
+bengozoli: folds 
+Uncalled bet (874) returned to Adamvrg
+Adamvrg collected 3400 from pot
+Adamvrg: doesn't show hand 
+*** SUMMARY ***
+Total pot 3598 | Rake 198 
+Board [2s 3s Qh]
+Seat 1: RobOClubs (big blind) folded on the Flop
+Seat 2: Holdin_Horace folded on the Flop
+Seat 3: bengozoli folded on the Flop
+Seat 4: Adamvrg (button) collected (3400)
+Seat 5: OwlInAllison (small blind) folded before Flop
+
+
+
+PokerStars Home Game Hand #214932153147: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:43:17 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #5 is the button
+Seat 1: RobOClubs (40543 in chips) 
+Seat 2: Holdin_Horace (11040 in chips) 
+Seat 3: bengozoli (47657 in chips) 
+Seat 4: Adamvrg (10000 in chips) 
+Seat 5: OwlInAllison (8700 in chips) 
+RobOClubs: posts small blind 50
+Holdin_Horace: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [7c 4h]
+bengozoli: folds 
+Adamvrg: calls 100
+OwlInAllison: calls 100
+RobOClubs: calls 50
+Holdin_Horace: checks 
+*** FLOP *** [Ks Qc 4d]
+RobOClubs: checks 
+Holdin_Horace: bets 200
+Adamvrg: folds 
+OwlInAllison: raises 200 to 400
+RobOClubs: calls 400
+Holdin_Horace: calls 200
+*** TURN *** [Ks Qc 4d] [Qh]
+RobOClubs: bets 500
+Holdin_Horace: calls 500
+OwlInAllison: calls 500
+*** RIVER *** [Ks Qc 4d Qh] [3d]
+RobOClubs: bets 2500
+Holdin_Horace: calls 2500
+OwlInAllison: raises 2500 to 5000
+RobOClubs: raises 2500 to 7500
+Holdin_Horace: calls 5000
+OwlInAllison: raises 200 to 7700 and is all-in
+RobOClubs: calls 200
+Holdin_Horace: calls 200
+*** SHOW DOWN ***
+OwlInAllison: shows [Qs Jh] (three of a kind, Queens)
+RobOClubs: mucks hand 
+Holdin_Horace: mucks hand 
+OwlInAllison collected 24759 from pot
+*** SUMMARY ***
+Total pot 26200 | Rake 1441 
+Board [Ks Qc 4d Qh 3d]
+Seat 1: RobOClubs (small blind) mucked [Qd 6c]
+Seat 2: Holdin_Horace (big blind) mucked [7c 4h]
+Seat 3: bengozoli folded before Flop (didn't bet)
+Seat 4: Adamvrg folded on the Flop
+Seat 5: OwlInAllison (button) showed [Qs Jh] and won (24759) with three of a kind, Queens
+
+
+
+PokerStars Home Game Hand #214932185412: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:44:45 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #1 is the button
+Seat 1: RobOClubs (31843 in chips) 
+Seat 2: Holdin_Horace (2340 in chips) 
+Seat 3: bengozoli (47657 in chips) 
+Seat 4: Adamvrg (9900 in chips) 
+Seat 5: OwlInAllison (24759 in chips) 
+Holdin_Horace: posts small blind 50
+bengozoli: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [9s Ac]
+Adamvrg: calls 100
+OwlInAllison: calls 100
+RobOClubs: calls 100
+Holdin_Horace: calls 50
+bengozoli: checks 
+*** FLOP *** [6h Qh Ad]
+Holdin_Horace: bets 2240 and is all-in
+bengozoli: folds 
+Adamvrg: raises 2240 to 4480
+OwlInAllison: calls 4480
+RobOClubs: folds 
+*** TURN *** [6h Qh Ad] [Tc]
+Adamvrg: bets 5320 and is all-in
+OwlInAllison: calls 5320
+*** RIVER *** [6h Qh Ad Tc] [3d]
+*** SHOW DOWN ***
+Adamvrg: shows [7h As] (a pair of Aces)
+OwlInAllison: shows [7c Ah] (a pair of Aces)
+Adamvrg collected 7144 from side pot
+OwlInAllison collected 7144 from side pot
+Holdin_Horace: shows [9s Ac] (a pair of Aces - Queen+Ten+Nine kicker)
+Holdin_Horace collected 6823 from main pot
+*** SUMMARY ***
+Total pot 22340 Main pot 6823. Side pot 14288. | Rake 1229 
+Board [6h Qh Ad Tc 3d]
+Seat 1: RobOClubs (button) folded on the Flop
+Seat 2: Holdin_Horace (small blind) showed [9s Ac] and won (6823) with a pair of Aces
+Seat 3: bengozoli (big blind) folded on the Flop
+Seat 4: Adamvrg showed [7h As] and won (7144) with a pair of Aces
+Seat 5: OwlInAllison showed [7c Ah] and won (7144) with a pair of Aces
+
+
+
+PokerStars Home Game Hand #214932207144: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:45:44 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #2 is the button
+Seat 1: RobOClubs (31743 in chips) 
+Seat 2: Holdin_Horace (6823 in chips) 
+Seat 3: bengozoli (47557 in chips) 
+Seat 4: Adamvrg (7244 in chips) 
+Seat 5: OwlInAllison (22003 in chips) 
+bengozoli: posts small blind 50
+Adamvrg: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [Ks 3d]
+OwlInAllison: folds 
+RobOClubs: calls 100
+Holdin_Horace: calls 100
+bengozoli: calls 50
+Adamvrg: checks 
+*** FLOP *** [Kh 2h 6h]
+bengozoli: checks 
+Adamvrg: checks 
+RobOClubs: bets 100
+Holdin_Horace: calls 100
+bengozoli: calls 100
+Adamvrg: calls 100
+*** TURN *** [Kh 2h 6h] [9c]
+bengozoli: checks 
+Adamvrg: checks 
+RobOClubs: checks 
+Holdin_Horace: bets 200
+bengozoli: calls 200
+Adamvrg: calls 200
+RobOClubs: calls 200
+*** RIVER *** [Kh 2h 6h 9c] [5s]
+bengozoli: checks 
+Adamvrg: bets 756
+RobOClubs: folds 
+Holdin_Horace: calls 756
+bengozoli: folds 
+*** SHOW DOWN ***
+Adamvrg: shows [7d Jc] (high card King)
+Holdin_Horace: shows [Ks 3d] (a pair of Kings)
+Holdin_Horace collected 2941 from pot
+*** SUMMARY ***
+Total pot 3112 | Rake 171 
+Board [Kh 2h 6h 9c 5s]
+Seat 1: RobOClubs folded on the River
+Seat 2: Holdin_Horace (button) showed [Ks 3d] and won (2941) with a pair of Kings
+Seat 3: bengozoli (small blind) folded on the River
+Seat 4: Adamvrg (big blind) showed [7d Jc] and lost with high card King
+Seat 5: OwlInAllison folded before Flop (didn't bet)
+
+
+
+PokerStars Home Game Hand #214932235138: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:46:59 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #3 is the button
+Seat 1: RobOClubs (31343 in chips) 
+Seat 2: Holdin_Horace (8608 in chips) 
+Seat 3: bengozoli (47157 in chips) 
+Seat 4: Adamvrg (8844 in chips) 
+Seat 5: OwlInAllison (22003 in chips) 
+Adamvrg: posts small blind 50
+OwlInAllison: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [3s Tc]
+RobOClubs: calls 100
+Holdin_Horace: calls 100
+bengozoli: folds 
+Adamvrg: raises 500 to 600
+OwlInAllison: calls 500
+RobOClubs: folds 
+Holdin_Horace: calls 500
+*** FLOP *** [2h 9d 9s]
+Adamvrg: bets 900
+OwlInAllison: folds 
+Holdin_Horace: folds 
+Uncalled bet (900) returned to Adamvrg
+Adamvrg collected 1795 from pot
+Adamvrg: doesn't show hand 
+*** SUMMARY ***
+Total pot 1900 | Rake 105 
+Board [2h 9d 9s]
+Seat 1: RobOClubs folded before Flop
+Seat 2: Holdin_Horace folded on the Flop
+Seat 3: bengozoli (button) folded before Flop (didn't bet)
+Seat 4: Adamvrg (small blind) collected (1795)
+Seat 5: OwlInAllison (big blind) folded on the Flop
+
+
+
+PokerStars Home Game Hand #214932253601: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:47:49 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #4 is the button
+Seat 1: RobOClubs (31243 in chips) 
+Seat 2: Holdin_Horace (8008 in chips) 
+Seat 3: bengozoli (47157 in chips) 
+Seat 4: Adamvrg (10039 in chips) 
+Seat 5: OwlInAllison (21403 in chips) 
+OwlInAllison: posts small blind 50
+RobOClubs: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [8c 6s]
+Holdin_Horace: calls 100
+bengozoli: folds 
+Adamvrg: calls 100
+OwlInAllison: calls 50
+RobOClubs: checks 
+*** FLOP *** [3h Kc 9h]
+OwlInAllison: checks 
+RobOClubs: checks 
+Holdin_Horace: checks 
+Adamvrg: checks 
+*** TURN *** [3h Kc 9h] [Tc]
+OwlInAllison: checks 
+RobOClubs: bets 100
+Holdin_Horace: calls 100
+Adamvrg: raises 700 to 800
+OwlInAllison: folds 
+RobOClubs: raises 700 to 1500
+Holdin_Horace: folds 
+Adamvrg: calls 700
+*** RIVER *** [3h Kc 9h Tc] [6h]
+RobOClubs: bets 5500
+Adamvrg: raises 2939 to 8439 and is all-in
+RobOClubs: calls 2939
+*** SHOW DOWN ***
+Adamvrg: shows [4d 3c] (a pair of Threes)
+RobOClubs: shows [9s Ts] (two pair, Tens and Nines)
+RobOClubs collected 19257 from pot
+*** SUMMARY ***
+Total pot 20378 | Rake 1121 
+Board [3h Kc 9h Tc 6h]
+Seat 1: RobOClubs (big blind) showed [9s Ts] and won (19257) with two pair, Tens and Nines
+Seat 2: Holdin_Horace folded on the Turn
+Seat 3: bengozoli folded before Flop (didn't bet)
+Seat 4: Adamvrg (button) showed [4d 3c] and lost with a pair of Threes
+Seat 5: OwlInAllison (small blind) folded on the Turn
+
+
+
+PokerStars Home Game Hand #214932294397: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:49:38 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #5 is the button
+Seat 1: RobOClubs (40461 in chips) 
+Seat 2: Holdin_Horace (7808 in chips) 
+Seat 3: bengozoli (47157 in chips) 
+Seat 5: OwlInAllison (21303 in chips) 
+RobOClubs: posts small blind 50
+Holdin_Horace: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [4s Jh]
+bengozoli: calls 100
+OwlInAllison: calls 100
+RobOClubs: calls 50
+Holdin_Horace: checks 
+*** FLOP *** [9c 4d 6h]
+RobOClubs: checks 
+Holdin_Horace: bets 200
+bengozoli: raises 778 to 978
+OwlInAllison: folds 
+RobOClubs: calls 978
+Holdin_Horace: folds 
+*** TURN *** [9c 4d 6h] [Js]
+RobOClubs: checks 
+bengozoli: bets 2415
+RobOClubs: folds 
+Uncalled bet (2415) returned to bengozoli
+bengozoli collected 2415 from pot
+bengozoli: doesn't show hand 
+*** SUMMARY ***
+Total pot 2556 | Rake 141 
+Board [9c 4d 6h Js]
+Seat 1: RobOClubs (small blind) folded on the Turn
+Seat 2: Holdin_Horace (big blind) folded on the Flop
+Seat 3: bengozoli collected (2415)
+Seat 5: OwlInAllison (button) folded on the Flop
+
+
+
+PokerStars Home Game Hand #214932312236: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:50:27 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #1 is the button
+Seat 1: RobOClubs (39383 in chips) 
+Seat 2: Holdin_Horace (7508 in chips) 
+Seat 3: bengozoli (48494 in chips) 
+Seat 4: Adamvrg (10000 in chips) 
+Seat 5: OwlInAllison (21203 in chips) 
+Holdin_Horace: posts small blind 50
+bengozoli: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [Kc 9c]
+Adamvrg: calls 100
+OwlInAllison: calls 100
+RobOClubs: calls 100
+Holdin_Horace: calls 50
+bengozoli: raises 500 to 600
+Adamvrg: raises 600 to 1200
+OwlInAllison: calls 1100
+RobOClubs: raises 600 to 1800
+Holdin_Horace: folds 
+bengozoli: calls 1200
+Adamvrg: calls 600
+OwlInAllison: calls 600
+*** FLOP *** [5h 9d 2c]
+bengozoli: checks 
+Adamvrg: bets 500
+OwlInAllison: raises 500 to 1000
+RobOClubs: raises 500 to 1500
+bengozoli: calls 1500
+Adamvrg: calls 1000
+OwlInAllison: calls 500
+*** TURN *** [5h 9d 2c] [8h]
+bengozoli: checks 
+Adamvrg: checks 
+OwlInAllison: checks 
+RobOClubs: bets 3000
+bengozoli: calls 3000
+Adamvrg: calls 3000
+OwlInAllison: calls 3000
+*** RIVER *** [5h 9d 2c 8h] [6d]
+bengozoli: checks 
+Adamvrg: bets 3700 and is all-in
+OwlInAllison: calls 3700
+RobOClubs: folds 
+bengozoli: calls 3700
+*** SHOW DOWN ***
+Adamvrg: shows [4s 7d] (a straight, Five to Nine)
+OwlInAllison: mucks hand 
+bengozoli: mucks hand 
+Adamvrg collected 34398 from pot
+*** SUMMARY ***
+Total pot 36400 | Rake 2002 
+Board [5h 9d 2c 8h 6d]
+Seat 1: RobOClubs (button) folded on the River
+Seat 2: Holdin_Horace (small blind) folded before Flop
+Seat 3: bengozoli (big blind) mucked [Ac 8c]
+Seat 4: Adamvrg showed [4s 7d] and won (34398) with a straight, Five to Nine
+Seat 5: OwlInAllison mucked [Ad 9h]
+
+
+
+PokerStars Home Game Hand #214932347851: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:52:02 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #2 is the button
+Seat 1: RobOClubs (33083 in chips) 
+Seat 2: Holdin_Horace (7408 in chips) 
+Seat 3: bengozoli (38494 in chips) 
+Seat 4: Adamvrg (34398 in chips) 
+Seat 5: OwlInAllison (11203 in chips) 
+bengozoli: posts small blind 50
+Adamvrg: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [Ks 3s]
+OwlInAllison: calls 100
+RobOClubs: raises 100 to 200
+Holdin_Horace: calls 200
+bengozoli: calls 150
+Adamvrg: calls 100
+OwlInAllison: calls 100
+*** FLOP *** [Kc Ad Jd]
+bengozoli: checks 
+Adamvrg: checks 
+OwlInAllison: checks 
+RobOClubs: bets 472
+Holdin_Horace: calls 472
+bengozoli: calls 472
+Adamvrg: folds 
+OwlInAllison: folds 
+*** TURN *** [Kc Ad Jd] [Td]
+bengozoli: checks 
+RobOClubs: bets 4500
+Holdin_Horace: calls 4500
+bengozoli: folds 
+*** RIVER *** [Kc Ad Jd Td] [Qh]
+RobOClubs: bets 2400
+Holdin_Horace: calls 2236 and is all-in
+Uncalled bet (164) returned to RobOClubs
+*** SHOW DOWN ***
+RobOClubs: shows [Jh Ah] (a straight, Ten to Ace)
+Holdin_Horace: shows [Ks 3s] (a straight, Ten to Ace)
+RobOClubs collected 7507 from pot
+Holdin_Horace collected 7507 from pot
+*** SUMMARY ***
+Total pot 15888 | Rake 874 
+Board [Kc Ad Jd Td Qh]
+Seat 1: RobOClubs showed [Jh Ah] and won (7507) with a straight, Ten to Ace
+Seat 2: Holdin_Horace (button) showed [Ks 3s] and won (7507) with a straight, Ten to Ace
+Seat 3: bengozoli (small blind) folded on the Turn
+Seat 4: Adamvrg (big blind) folded on the Flop
+Seat 5: OwlInAllison folded on the Flop
+
+
+
+PokerStars Home Game Hand #214932381001: {Club #3409868}  Hold'em No Limit (50/100) - 2020/06/05 6:53:31 ET
+Table 'AACG Texas Holdem 5 June 2020' 6-max (Play Money) Seat #3 is the button
+Seat 1: RobOClubs (33182 in chips) 
+Seat 2: Holdin_Horace (7507 in chips) 
+Seat 3: bengozoli (37822 in chips) 
+Seat 4: Adamvrg (34198 in chips) 
+Seat 5: OwlInAllison (11003 in chips) 
+Adamvrg: posts small blind 50
+OwlInAllison: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Holdin_Horace [Jc 4s]
+RobOClubs: calls 100
+Holdin_Horace: calls 100
+bengozoli: raises 450 to 550
+Adamvrg: calls 500
+OwlInAllison: calls 450
+RobOClubs: calls 450
+Holdin_Horace: calls 450
+*** FLOP *** [8d 9s 4d]
+Adamvrg: bets 2600
+OwlInAllison: raises 2600 to 5200
+RobOClubs: folds 
+Holdin_Horace: folds 
+bengozoli: calls 5200
+Adamvrg: calls 2600
+*** TURN *** [8d 9s 4d] [3h]
+Adamvrg: bets 17341
+OwlInAllison: folds 
+bengozoli: calls 17341
+*** RIVER *** [8d 9s 4d 3h] [Ac]
+Adamvrg: bets 11107 and is all-in
+bengozoli: calls 11107
+*** SHOW DOWN ***
+Adamvrg: shows [6h 8s] (a pair of Eights)
+bengozoli: shows [Ad Qd] (a pair of Aces)
+bengozoli collected 71107 from pot
+*** SUMMARY ***
+Total pot 75246 | Rake 4139 
+Board [8d 9s 4d 3h Ac]
+Seat 1: RobOClubs folded on the Flop
+Seat 2: Holdin_Horace folded on the Flop
+Seat 3: bengozoli (button) showed [Ad Qd] and won (71107) with a pair of Aces
+Seat 4: Adamvrg (small blind) showed [6h 8s] and lost with a pair of Eights
+Seat 5: OwlInAllison (big blind) folded on the Turn
+
+
+
