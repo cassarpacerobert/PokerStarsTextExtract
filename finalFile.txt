@@ -1,0 +1,358 @@
+Hand ID: 214931346417
+Dealt to Adamvrg [9d 5h]
+Dealt to Holdin_Horace [2c 8d]
+Dealt to RobOClubs [Kd 4s]
+Dealt to bengozoli [Td 9h]
+
+Hand ID: 214931361954
+Dealt to Adamvrg [Jh Kh]
+Dealt to Holdin_Horace [7c As]
+Dealt to RobOClubs [Jc 5c]
+Dealt to bengozoli [5d Jd]
+
+Hand ID: 214931381000
+Dealt to Adamvrg [Td Jc]
+Dealt to Holdin_Horace [9d 8d]
+Dealt to OwlInAllison [Kh 5c]
+Dealt to RobOClubs [7s 8c]
+Dealt to bengozoli [7h Ac]
+
+Hand ID: 214931410782
+Dealt to Adamvrg [Td 4c]
+Dealt to Holdin_Horace [Kc Kh]
+Dealt to RobOClubs [9s 4d]
+Dealt to bengozoli [3h 6d]
+
+Hand ID: 214931422500
+Dealt to Adamvrg [Jh Ad]
+Dealt to Holdin_Horace [3d 3h]
+Dealt to OwlInAllison [4s 8d]
+Dealt to RobOClubs [4h 9d]
+Dealt to bengozoli [8s 6s]
+
+Hand ID: 214931439606
+Dealt to Adamvrg [5d 2h]
+Dealt to Holdin_Horace [Ts 9h]
+Dealt to OwlInAllison [3c 6h]
+Dealt to RobOClubs [4h Ac]
+Dealt to bengozoli [7d 5h]
+
+Hand ID: 214931454151
+Dealt to Adamvrg [8h 9d]
+Dealt to Holdin_Horace [Ah 2c]
+Dealt to OwlInAllison [Jd Tc]
+Dealt to RobOClubs [2h 8c]
+Dealt to bengozoli [7h 4c]
+
+Hand ID: 214931474314
+Dealt to Adamvrg [Qh 5d]
+Dealt to Holdin_Horace [9c Kh]
+Dealt to OwlInAllison [7d Ks]
+Dealt to RobOClubs [4c Ts]
+Dealt to bengozoli [Kd Kc]
+
+Hand ID: 214931499257
+Dealt to Adamvrg [8h 7h]
+Dealt to Holdin_Horace [5d 7c]
+Dealt to OwlInAllison [Ad 8c]
+Dealt to RobOClubs [4c 2h]
+Dealt to bengozoli [Jh 4s]
+
+Hand ID: 214931522973
+Dealt to Adamvrg [Kc 9s]
+Dealt to Holdin_Horace [Jh 6d]
+Dealt to OwlInAllison [5c 7c]
+Dealt to RobOClubs [8c 2h]
+Dealt to bengozoli [4h Ah]
+
+Hand ID: 214931553324
+Dealt to Adamvrg [4h Qh]
+Dealt to Holdin_Horace [Kc As]
+Dealt to OwlInAllison [Qc 4c]
+Dealt to RobOClubs [6d 7s]
+Dealt to bengozoli [6c Ah]
+
+Hand ID: 214931576914
+Dealt to Adamvrg [9c Jd]
+Dealt to Holdin_Horace [7h Ad]
+Dealt to OwlInAllison [4s 6c]
+Dealt to RobOClubs [6d 6h]
+Dealt to bengozoli [8s 5s]
+
+Hand ID: 214931600295
+Dealt to Adamvrg [Qd 3d]
+Dealt to Holdin_Horace [3h Td]
+Dealt to OwlInAllison [6s 9h]
+Dealt to RobOClubs [Th Qh]
+Dealt to bengozoli [Kh Ac]
+
+Hand ID: 214931619996
+Dealt to Holdin_Horace [9h 4d]
+Dealt to OwlInAllison [5s 7d]
+Dealt to RobOClubs [4h Ad]
+Dealt to bengozoli [Ks 6d]
+
+Hand ID: 214931631665
+Dealt to Holdin_Horace [Th 2c]
+Dealt to OwlInAllison [Ks Kd]
+Dealt to RobOClubs [2h 4s]
+Dealt to bengozoli [Kh Jc]
+
+Hand ID: 214931646686
+Dealt to Adamvrg [6d Qd]
+Dealt to Holdin_Horace [Kd 7s]
+Dealt to OwlInAllison [6h Td]
+Dealt to RobOClubs [2d 4d]
+Dealt to bengozoli [9h 3h]
+
+Hand ID: 214931681533
+Dealt to Adamvrg [9d Jh]
+Dealt to Holdin_Horace [5h 2c]
+Dealt to OwlInAllison [7d 5s]
+Dealt to RobOClubs [5d Kc]
+Dealt to bengozoli [2d 7s]
+
+Hand ID: 214931708191
+Dealt to Adamvrg [2s 9c]
+Dealt to Holdin_Horace [7d 3h]
+Dealt to OwlInAllison [Ad 6c]
+Dealt to RobOClubs [Kc 4s]
+Dealt to bengozoli [Jc 2h]
+
+Hand ID: 214931735344
+Dealt to Adamvrg [Ah 8d]
+Dealt to Holdin_Horace [3d 5d]
+Dealt to OwlInAllison [7h Js]
+Dealt to bengozoli [4h 3h]
+
+Hand ID: 214931749193
+Dealt to Adamvrg [9h Ts]
+Dealt to Holdin_Horace [6c 7h]
+Dealt to OwlInAllison [9d 3s]
+Dealt to RobOClubs [5c 5s]
+Dealt to bengozoli [Qh 7d]
+
+Hand ID: 214931771635
+Dealt to Adamvrg [5c Qd]
+Dealt to Holdin_Horace [9s Qc]
+Dealt to OwlInAllison [Td 6c]
+Dealt to RobOClubs [Jd 8d]
+Dealt to bengozoli [3s 3c]
+
+Hand ID: 214931792256
+Dealt to Adamvrg [2d Jc]
+Dealt to Holdin_Horace [3c Kh]
+Dealt to OwlInAllison [Td 7s]
+Dealt to RobOClubs [Qc 5d]
+Dealt to bengozoli [7c 2s]
+
+Hand ID: 214931809941
+Dealt to Adamvrg [Td Th]
+Dealt to Holdin_Horace [2c 2d]
+Dealt to OwlInAllison [3c Qc]
+Dealt to RobOClubs [6c 5c]
+Dealt to bengozoli [2h 4d]
+
+Hand ID: 214931828639
+Dealt to OwlInAllison [Ah 3s]
+Dealt to RobOClubs [8h 4s]
+Dealt to bengozoli [Kd 2h]
+
+Hand ID: 214931848356
+Dealt to Adamvrg [8c Kh]
+Dealt to Holdin_Horace [Ad 2s]
+Dealt to OwlInAllison [5c 9s]
+Dealt to RobOClubs [5h Jd]
+Dealt to bengozoli [7c Ks]
+
+Hand ID: 214931858988
+Dealt to Adamvrg [5h Th]
+Dealt to Holdin_Horace [Ah 7c]
+Dealt to OwlInAllison [5s Qs]
+Dealt to RobOClubs [Js 4s]
+Dealt to bengozoli [8s 5d]
+
+Hand ID: 214931888780
+Dealt to Adamvrg [Ah 3c]
+Dealt to Holdin_Horace [3d 8d]
+Dealt to OwlInAllison [Qs 8s]
+Dealt to RobOClubs [6s Jc]
+Dealt to bengozoli [4c Jd]
+
+Hand ID: 214931911808
+Dealt to Adamvrg [2d 2s]
+Dealt to Holdin_Horace [Jc 3s]
+Dealt to OwlInAllison [Ts Ad]
+Dealt to RobOClubs [7s Kd]
+Dealt to bengozoli [2h Jd]
+
+Hand ID: 214931950175
+Dealt to Adamvrg [Qh 7s]
+Dealt to Holdin_Horace [6s 5c]
+Dealt to RobOClubs [9h Ad]
+Dealt to bengozoli [Js 6c]
+
+Hand ID: 214931966621
+Dealt to Adamvrg [7d Ad]
+Dealt to Holdin_Horace [Td 7h]
+Dealt to OwlInAllison [6h 3h]
+Dealt to RobOClubs [8h 3c]
+Dealt to bengozoli [As 7s]
+
+Hand ID: 214931981947
+Dealt to Adamvrg [2s 5h]
+Dealt to Holdin_Horace [Kd As]
+Dealt to OwlInAllison [Ts Ac]
+Dealt to RobOClubs [7d 9h]
+Dealt to bengozoli [Tc Qh]
+
+Hand ID: 214932020546
+Dealt to Adamvrg [3h Ah]
+Dealt to Holdin_Horace [Jc 7s]
+Dealt to RobOClubs [6d 9s]
+Dealt to bengozoli [8s Qd]
+
+Hand ID: 214932044403
+Dealt to Adamvrg [5c 7d]
+Dealt to Holdin_Horace [3d Js]
+Dealt to RobOClubs [Qc 8s]
+Dealt to bengozoli [6h Td]
+
+Hand ID: 214932066529
+Dealt to Adamvrg [Ks 3d]
+Dealt to Holdin_Horace [9d Ah]
+Dealt to OwlInAllison [2d 4d]
+Dealt to RobOClubs [5h Jd]
+Dealt to bengozoli [8c 8d]
+
+Hand ID: 214932086871
+Dealt to Adamvrg [2h Tc]
+Dealt to Holdin_Horace [Kc 7d]
+Dealt to OwlInAllison [8s Jd]
+Dealt to RobOClubs [7c 8h]
+Dealt to bengozoli [3h 8c]
+
+Hand ID: 214932110399
+Dealt to Adamvrg [Kd Kh]
+Dealt to Holdin_Horace [2h 5c]
+Dealt to OwlInAllison [6c Qd]
+Dealt to RobOClubs [Ts 7c]
+Dealt to bengozoli [6d Td]
+
+Hand ID: 214932139204
+Dealt to Adamvrg [Qs 3h]
+Dealt to Holdin_Horace [Kc Jh]
+Dealt to OwlInAllison [6c 5h]
+Dealt to RobOClubs [Ts Td]
+Dealt to bengozoli [Ac Tc]
+
+Hand ID: 214932153147
+Dealt to Adamvrg [3c 8d]
+Dealt to Holdin_Horace [7c 4h]
+Dealt to OwlInAllison [Qs Jh]
+Dealt to RobOClubs [Qd 6c]
+Dealt to bengozoli [9s 5d]
+
+Hand ID: 214932185412
+Dealt to Adamvrg [7h As]
+Dealt to Holdin_Horace [9s Ac]
+Dealt to OwlInAllison [7c Ah]
+Dealt to RobOClubs [6c 3h]
+Dealt to bengozoli [Th Js]
+
+Hand ID: 214932207144
+Dealt to Adamvrg [7d Jc]
+Dealt to Holdin_Horace [Ks 3d]
+Dealt to OwlInAllison [3s 7h]
+Dealt to RobOClubs [8s 4h]
+Dealt to bengozoli [Th Ac]
+
+Hand ID: 214932235138
+Dealt to Adamvrg [2c 7s]
+Dealt to Holdin_Horace [3s Tc]
+Dealt to OwlInAllison [7h Kh]
+Dealt to RobOClubs [6d 3h]
+Dealt to bengozoli [2s Jd]
+
+Hand ID: 214932253601
+Dealt to Adamvrg [4d 3c]
+Dealt to Holdin_Horace [8c 6s]
+Dealt to OwlInAllison [Jc 3d]
+Dealt to RobOClubs [9s Ts]
+Dealt to bengozoli [Js 7d]
+
+Hand ID: 214932294397
+Dealt to Holdin_Horace [4s Jh]
+Dealt to OwlInAllison [Ad 5c]
+Dealt to RobOClubs [2d Jd]
+Dealt to bengozoli [4h 6s]
+
+Hand ID: 214932312236
+Dealt to Adamvrg [4s 7d]
+Dealt to Holdin_Horace [Kc 9c]
+Dealt to OwlInAllison [Ad 9h]
+Dealt to RobOClubs [Ah 3d]
+Dealt to bengozoli [Ac 8c]
+
+Hand ID: 214932347851
+Dealt to Adamvrg [2d 5c]
+Dealt to Holdin_Horace [Ks 3s]
+Dealt to OwlInAllison [8d 8c]
+Dealt to RobOClubs [Jh Ah]
+Dealt to bengozoli [6c Tc]
+
+Hand ID: 214932381001
+Dealt to Adamvrg [6h 8s]
+Dealt to Holdin_Horace [Jc 4s]
+Dealt to OwlInAllison [2h Th]
+Dealt to RobOClubs [3c Js]
+Dealt to bengozoli [Ad Qd]
+
+Hand ID: 214932409736
+Dealt to OwlInAllison [7c 7d]
+Dealt to RobOClubs [Td 4s]
+Dealt to bengozoli [2s 3c]
+
+Hand ID: 214932435070
+Dealt to Adamvrg [7c Jd]
+Dealt to RobOClubs [5h Qh]
+Dealt to bengozoli [Ad 7h]
+
+Hand ID: 214932454919
+Dealt to OwlInAllison [9s 3d]
+Dealt to RobOClubs [3c Jh]
+Dealt to bengozoli [Qh Jd]
+
+Hand ID: 214932465241
+Dealt to Adamvrg [Kc 4s]
+Dealt to OwlInAllison [Kd Ad]
+Dealt to RobOClubs [4c 3s]
+Dealt to bengozoli [Qh Jh]
+
+Hand ID: 214932487362
+Dealt to Adamvrg [3s 6c]
+Dealt to OwlInAllison [2c Kc]
+Dealt to RobOClubs [Ts 8c]
+Dealt to bengozoli [7h 9s]
+
+Hand ID: 214932505547
+Dealt to Adamvrg [2d Ac]
+Dealt to OwlInAllison [Qc 4d]
+Dealt to RobOClubs [7d 5s]
+Dealt to bengozoli [Ts 4c]
+
+Hand ID: 214932526124
+Dealt to Adamvrg [8d Js]
+Dealt to OwlInAllison [7s 3h]
+Dealt to RobOClubs [8c 4s]
+Dealt to bengozoli [2d Ad]
+
+Hand ID: 214932539926
+Dealt to Adamvrg [6s 9c]
+Dealt to OwlInAllison [2h Kc]
+Dealt to RobOClubs [8s 2d]
+Dealt to bengozoli [2s 9d]
+
+Hand ID: 214932567427
+Dealt to Adamvrg [8h 6s]
+Dealt to RobOClubs [7d Ad]
